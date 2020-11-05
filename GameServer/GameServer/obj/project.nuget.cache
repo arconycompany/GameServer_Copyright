@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NATkzUf8gqx+s6gNKKCdYiwSTyYIoAcbhO+aSfTYgCsq+lQgYPUab/1fwTIlb9+U9zJNOjeU5D7WJXu3hD+Dw==",
+  "success": true,
+  "projectFilePath": "E:\\GameServer_Copyright\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
